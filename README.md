@@ -43,6 +43,8 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 ```
 ## Output
+![Output](https://github.com/Yuvan291205/Univariate-Linear-Regression/assets/138849170/4dc6eb33-7b58-4853-938e-233fd0158397)
+
 ![Output](https://github.com/Yuvan291205/Univariate-Linear-Regression/assets/138849170/15a0f838-e71d-4278-9a0d-cf4a88f4b320)
 
 
